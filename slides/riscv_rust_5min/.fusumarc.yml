@@ -14,6 +14,10 @@ slide:
   code:
     languages:
       - javascript
+      - rust
+      - c
+      - toml
+      - bash
     plugins: []
     theme: default
   chart: false
