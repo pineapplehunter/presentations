@@ -7,7 +7,7 @@ meta:
     - twitter
 slide:
   loop: false
-  sidebar: true
+  sidebar: false
   targetBlank: true
   showIndex: true
   isVertical: false
